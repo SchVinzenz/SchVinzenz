@@ -3,9 +3,9 @@
       - Programming
       - OpenSource, Self-Hosted Software
       - HomeServer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Programming
+- 💞️ I’m looking to collaborate on my HomeServer
+- 📫 How to reach me: Under vinzenz.schaechner@web.de
 
 <!---
 SchVinzenz/SchVinzenz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
