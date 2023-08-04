@@ -5,7 +5,7 @@
       - HomeServer
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on my HomeServer
-- 📫 How to reach me: Under vinzenz.schaechner@web.de
+- 📫 How to reach me: Under one of my websites!
 
 <!---
 SchVinzenz/SchVinzenz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
