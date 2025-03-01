@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on my HomeServer
 - 📫 How to reach me: Under one of my websites!
-  
-![](https://komarev.com/ghpvc/schVinzenz)
+
+![https://vinzenz.schächner.de](https://vinzenz.schächner.de)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
