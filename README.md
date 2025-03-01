@@ -8,7 +8,6 @@
 - 📫 How to reach me: Under one of my websites!
   
 ![](https://komarev.com/ghpvc/schVinzenz)
---
 
 
 <!---
