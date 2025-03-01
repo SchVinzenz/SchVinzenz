@@ -1,15 +1,13 @@
 # 👋 Hi, I’m @SchVinzenz
+![](https://komarev.com/ghpvc/?username=schVinzenz)
 - 👀 I’m interested in
       - Programming
       - OpenSource, Self-Hosted Software
       - HomeServer
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on my HomeServer
-- 📫 How to reach me: Under one of my websites!
+- 📫 How to reach me: https://vinzenz.schächner.de
 
-![https://vinzenz.schächner.de](https://vinzenz.schächner.de)
-
-![](https://komarev.com/ghpvc/?username=your-github-username)
 
 <!---
 SchVinzenz/SchVinzenz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
