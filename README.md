@@ -6,10 +6,10 @@
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on my HomeServer
 - 📫 How to reach me: Under one of my websites!
-![](https://komarev.com/ghpvc/?username=your-github-username)
+- 
+![](https://komarev.com/ghpvc/schVinzenz)
 --
-![](https://komarev.com/ghpvc/?schVinzenz)
---
+
 
 <!---
 SchVinzenz/SchVinzenz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
