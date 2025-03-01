@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SchVinzenz
+# 👋 Hi, I’m @SchVinzenz
 - 👀 I’m interested in
       - Programming
       - OpenSource, Self-Hosted Software
